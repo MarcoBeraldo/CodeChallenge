@@ -1,0 +1,93 @@
+*{
+  width: auto;
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  width: auto;
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main{
+  width: auto;
+  height: auto;
+  background-color: rgba(0,0,0,0.4);
+  border-radius: 50px;
+  text-align: center;
+  margin: 10%;
+  margin-bottom: 10%;
+}
+
+.mono{
+line-height: 50px;
+}
+
+.sottologo{
+  color: lime;
+  font-size: x-large;
+  font-family: arial;
+}
+
+.bottoni{
+  background-color: lime;
+  border-radius: 10px;
+  padding: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+  height: 40px;
+}
+
+#mono-gino{
+  text-align: left;
+  margin-left: 20%;
+  font-size: x-large;
+  color: white;
+}
+
+#barra1{
+  color: orange;
+  text-align: left;
+  background-color: orange;
+  border-radius: 5px;
+  padding: 4px;
+  height: 20px;
+}
+
+#mono-mike{
+  text-align: left;
+  margin-left: 20%;
+  font-size: x-large;
+  color: white;
+}
+
+#barra2{
+  color: green;
+  text-align: left;
+  background-color: green;
+  border-radius: 5px;
+  padding: 4px;
+  height: 20px;
+}
+
+  #mono-fede{
+    text-align: left;
+    margin-left: 20%;
+    font-size: x-large;
+    color: white;
+  }
+
+  #barra3{
+    color: red;
+    text-align: left;
+    background-color: red;
+    border-radius: 5px;
+    padding: 4px;
+    height: 20px;
+  }
+.via{
+  font-size: medium;
+}
